@@ -1,4 +1,4 @@
-# Hemmels' Github Pages Direcoty
+# Hemmels' Github Pages Directory
 Here is where i'll list all the Github Pages projects I have.
 The code for these can all be found at:
 
